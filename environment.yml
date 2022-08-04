@@ -1,0 +1,47 @@
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.1.3
+  - r-irkernel
+  - r-tidyverse
+  - r-xlsx
+  - r-haven
+  - r-remotes
+  - r-devtools
+  # Data Handling
+  - r-naniar
+  # R Markdown
+  - r-rmarkdown
+  - r-formatR
+  - r-summarytools
+  - r-gt
+  - r-kableExtra
+  - r-bookdown
+  - r-xaringan
+  # Estimation
+  - r-rstan
+  - r-estimatr
+  - r-margins
+  - r-prediction
+  - r-modelsummary
+  # Visualization
+  - r-ggpubr
+  - r-gghighlight
+  - r-ggExtra
+  - r-ggridges
+  - r-ragg
+  - r-ggalluvial
+  - r-treemapify
+  - r-ggbump
+  - r-dendextend
+  - r-ggdendro
+  - r-ggmosaic
+  - r-gt
+  # Spatial
+  - r-sf
+  - r-rgeos
+  - r-rnaturalearth
+  - r-rnaturalearthdata
+  - r-raster
+  - r-terra
+  - r-leaflet
