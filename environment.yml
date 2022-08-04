@@ -12,6 +12,7 @@ dependencies:
   - r-naniar
   # R Markdown
   - r-rmarkdown
+  - r-quarto
   - r-formatR
   - r-summarytools
   - r-gt
