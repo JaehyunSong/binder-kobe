@@ -10,6 +10,7 @@ dependencies:
   - r-devtools
   # Data Handling
   - r-naniar
+  - r-fastdummies
   # R Markdown
   - r-rmarkdown
   - r-quarto
