@@ -6,6 +6,7 @@ install.packages("rdrobust",     dependencies = TRUE, repos = "https://cran.ism.
 install.packages("rddensity",    dependencies = TRUE, repos = "https://cran.ism.ac.jp/")
 install.packages("CausalImpact", dependencies = TRUE, repos = "https://cran.ism.ac.jp/")
 install.packages("gsynth",       dependencies = TRUE, repos = "https://cran.ism.ac.jp/")
+install.packages("panelView",    dependencies = TRUE, repos = "https://cran.ism.ac.jp/")
 
 # Package Manager
 install.packages("pacman",       dependencies = TRUE, repos = "https://cran.ism.ac.jp/")
