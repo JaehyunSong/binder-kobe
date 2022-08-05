@@ -23,7 +23,7 @@ dependencies:
   - r-margins
   - r-prediction
   - r-modelsummary
+  - r-cobalt
   # Visualization
   - r-ragg
-  - r-gt
   - r-ggpubr
